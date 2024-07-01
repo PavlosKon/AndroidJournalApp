@@ -17,9 +17,9 @@ If a question gathers enough upvotes then it goes into the Approved Questions Po
 This app has the following features:
   - User Authentication: Secure login and registration functionalities using Firebase Authentication.
   - Create new journal entries which are automatically stamped with the current date.
-  - Firebase Realtime Database: Store user data and notes securely in the cloud.
-  - Add new questions and upvote or downvote  existing ones that are pending approval by the community.
-  - Change app theme to Day / Night mode.
+  - Firebase Realtime Database: Store user data, journal entries and questions securely in the cloud.
+  - Add new questions to the questions pool. Upvote or downvote existing ones which are pending approval by the community.
+  - Change app theme to Day/Night mode.
 
 # DEPENDENCIES
   - Firebase Authentication: For user authentication.
