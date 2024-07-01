@@ -1,0 +1,33 @@
+
+
+<resources>
+<string name="app_name" translatable="false">Μοιρολόγιο</string>
+<string name="already_have_account" translatable="true">Έχεις ήδη λογαριασμό;</string>
+<string name="login_here" translatable="true">Μπες εδώ!</string>
+<string name="login_button" translatable="true">Είσοδος</string>
+<string name="logout_button" translatable="true">Αποσύνδεση</string>
+<string name="change_password" translatable="true">Αλλαγή κωδικού</string>
+
+
+<string name="hint_enter_password" translatable="true">Κωδικός</string>
+<string name="hint_confirm_password" translatable="true">Επιβεβαίωση κωδικού</string>
+<string name="register_button" translatable="true">Εγγραφή</string>
+<string name="hint_enter_email" translatable="true">Το email σου</string>
+<string name="dont_have_account" translatable="true">Δεν διαθέτεις λογαριασμό;</string>
+<string name="register_here" translatable="true">Κάνε εγγραφή εδώ!</string>
+<string name="theme" translatable="true">Θέμα</string>
+<string name="language" translatable="true">Γλώσσα</string>
+<string name="write_your_answer">Γράψε την απάντησή σου εδώ</string>
+    <string name="home">Γραψίματα</string>
+    <string name="pool">Ερωτήσεις</string>
+    <string name="profile">Ρυθμίσεις</string>
+    <string name="light_dark">Μέρα / Νύχτα</string>
+    <string name="en_gr">EN / GR</string>
+    <string name="user_password">Κωδικός χρήστη</string>
+    <string name="logout_user">Αποσύνδεση χρήστη</string>
+    <string name="enter_new_password">Νέος κωδικός</string>
+    <string name="confirm_new_password">Επιβεβαίωση νέου κωδικού</string>
+    <string name="write_question_here">Γράψε την ερώτησή σου εδώ</string>
+
+
+</resources>
