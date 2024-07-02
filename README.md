@@ -26,3 +26,8 @@ This app has the following features:
   - Firebase Authentication: For user authentication.
   - Firebase Realtime Database: For cloud database management.
   - Scalable DP: For scalable size unit that helps with UI consistency across different devices.
+
+# NOTES
+The app is currently only available in Greek, as it was developed for the purposes of the certificate program.
+    
+
